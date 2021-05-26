@@ -1,0 +1,6 @@
+/home/faroub/Documents/development-projects/projects-embedded/raspi-board/applications/BlinkLedWidget/build/CMakeFiles/rebuild_cache.dir
+/home/faroub/Documents/development-projects/projects-embedded/raspi-board/applications/BlinkLedWidget/build/CMakeFiles/edit_cache.dir
+/home/faroub/Documents/development-projects/projects-embedded/raspi-board/applications/BlinkLedWidget/build/CMakeFiles/BlinkLedWidget.dir
+/home/faroub/Documents/development-projects/projects-embedded/raspi-board/applications/BlinkLedWidget/build/gui/CMakeFiles/rebuild_cache.dir
+/home/faroub/Documents/development-projects/projects-embedded/raspi-board/applications/BlinkLedWidget/build/gui/CMakeFiles/edit_cache.dir
+/home/faroub/Documents/development-projects/projects-embedded/raspi-board/applications/BlinkLedWidget/build/gui/CMakeFiles/gui.dir
